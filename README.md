@@ -16,10 +16,10 @@
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{ANSH-MD]}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
 
 
 <p align="center">
@@ -52,7 +52,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 
 
-🚀 Deploy KHAN-MD
+🚀 Deploy ANSH MD
 
 > Deploy on Heroku
 
